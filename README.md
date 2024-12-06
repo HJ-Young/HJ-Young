@@ -1,4 +1,4 @@
-## Hi there 👋<!--
+## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm YangHaoJin</h1>
 <h3 align="center">A postgraduate student in PKU 1806 lab</h3>
