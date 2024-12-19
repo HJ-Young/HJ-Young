@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm YangHaoJin</h1>
-<h3 align="center">A postgraduate student in PKU 1806 lab</h3>
+<h3 align="center">A postgraduate student in PKU</h3>
 
 - 🔭 I’m currently working on [incubator-hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai)
 - 🌱 I’m currently learning **Graph RAG, Deep Learning, LLM Agent**
