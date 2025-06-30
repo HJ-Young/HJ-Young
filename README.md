@@ -4,7 +4,7 @@
 <h3 align="center">A postgraduate student in PKU</h3>
 
 - 🔭 I’m currently working on [incubator-hugegraph-ai](https://github.com/apache/incubator-hugegraph-ai)
-- 🌱 I’m currently learning **Graph RAG, Deep Learning, LLM Agent**
+- 🌱 I’m currently learning **LLM Reasoning, LLM Agent, Diffusion LLM**
 - 📫 How to reach me **1454yhj@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
